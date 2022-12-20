@@ -115,7 +115,7 @@ body {
 
 .end {
   width: 100%;
-  height: auto;
+  margin: 100px auto auto;
 }
 .end .coffee-img img {
   width: 100%;
@@ -207,7 +207,7 @@ body {
   }
   .container .end {
     width: 100%;
-    height: auto;
+    margin: 100px auto auto;
   }
   .container .end .coffee-img {
     height: auto;
