@@ -122,8 +122,8 @@ body {
 }
 
 @media screen and (min-width: 811px) {
-  #navv {
-    display: block;
+  #openMenu {
+    display: block !important;
   }
 
   .border-left {
