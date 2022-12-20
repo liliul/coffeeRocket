@@ -1,0 +1,12 @@
+{
+  "name": "rocketCoffee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "sass -w style.scss:style.css & live-server --no-browser",
+    "build": "cleancss -o estilo.min.css style.css & uglifyjs -o script.min.js script.js"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
